@@ -1,0 +1,59 @@
+common_name,scientific_name,scientificNameID,scientificNameAuthorship,basisOfRecord
+Basking Shark,Cetorhinus maximus,urn:lsid:marinespecies.org:taxname:105837,Sean Goral,HumanObservation
+Beluga,Delphinapterus leucas,urn:lsid:marinespecies.org:taxname:137115,Sean Goral,HumanObservation
+Beluga Whale,Delphinapterus leucas,urn:lsid:marinespecies.org:taxname:137115,Sean Goral,HumanObservation
+Blainville's Beaked Whale ,Mesoplodon densirostris,urn:lsid:marinespecies.org:taxname:137122,Sean Goral,HumanObservation
+Blue Shark,Prionace glauca,urn:lsid:marinespecies.org:taxname:105801,Sean Goral,HumanObservation
+Blue Whale,Balaenoptera musculus,urn:lsid:marinespecies.org:taxname:137090,Rae Fuhrman,HumanObservation
+Bottlenose Dolphin,Balaenoptera acutorostrata,urn:lsid:marinespecies.org:taxname:137087,Rae Fuhrman,HumanObservation
+Bottlenose Whale,Hyperoodon,urn:lsid:marinespecies.org:taxname:137033,Sean Goral,HumanObservation
+Bowhead,Balaena mysticetus,urn:lsid:marinespecies.org:taxname:137086,Sean Goral,HumanObservation
+Cachalot pygm√©e,Kogia breviceps,urn:lsid:marinespecies.org:taxname:137113,Sean Goral,HumanObservation
+Common Dolphin,Delphinus,urn:lsid:marinespecies.org:taxname:137015,Sean Goral,HumanObservation
+Common Long-Beaked Dolphin,Delphinus capensis,urn:lsid:marinespecies.org:taxname:383816,Rae Fuhrman,HumanObservation
+Common Short-Beaked Dolphin,Delphinus delphis,urn:lsid:marinespecies.org:taxname:137094,Rae Fuhrman,HumanObservation
+Dali's Porpoise,Phocoenoides dalli,urn:lsid:marinespecies.org:taxname:254987),Rae Fuhrman,HumanObservation
+Dauphin commun,Delphinus,urn:lsid:marinespecies.org:taxname:137015,Sean Goral,HumanObservation
+Dwarf Sperm Whale ,Kogia sima,urn:lsid:marinespecies.org:taxname:159025,Sean Goral,HumanObservation
+Fin Whale,Balaenoptera physalus,urn:lsid:marinespecies.org:taxname:137091,Rae Fuhrman,HumanObservation
+Finback Whale,Balaenoptera physalus,urn:lsid:marinespecies.org:taxname:137091,Sean Goral,HumanObservation
+Globic√©phale du Pacifique,Globicephala macrorhynchus,urn:lsid:marinespecies.org:taxname:137096,Sean Goral,HumanObservation
+Grand dauphin,Delphinus,urn:lsid:marinespecies.org:taxname:137015,Sean Goral,HumanObservation
+Gray Whale,Eschrichtius robustus,urn:lsid:marinespecies.org:taxname:137112,Rae Fuhrman,HumanObservation
+Great White Shark,Carcharodon carcharias,urn:lsid:marinespecies.org:taxname:105838,Sean Goral,HumanObservation
+Harbor Porpoise,Phocoena phocoena,urn:lsid:marinespecies.org:taxname:137117,Rae Fuhrman,HumanObservation
+Humpback,Megaptera novaeangliae,urn:lsid:marinespecies.org:taxname:137092,Rae Fuhrman,HumanObservation
+Humpback Whale,Megaptera novaeangliae,urn:lsid:marinespecies.org:taxname:137092,Rae Fuhrman,HumanObservation
+Killer Whale,Orcinus orca,urn:lsid:marinespecies.org:taxname:137102,Sean Goral,HumanObservation
+Killer Whale (Orca),Orcinus orca,urn:lsid:marinespecies.org:taxname:137102,Rae Fuhrman,HumanObservation
+Long-beaked Common Dolphin,Delphinus capensis,urn:lsid:marinespecies.org:taxname:383816,Sean Goral,HumanObservation
+Mako Shark,Isurus oxyrinchus,urn:lsid:marinespecies.org:taxname:105839,Rae Fuhrman,HumanObservation
+Marsouin commun,Phocoena phocoena,urn:lsid:marinespecies.org:taxname:137117,Sean Goral,HumanObservation
+Marsouin commun,Phocoena phocoena,urn:lsid:marinespecies.org:taxname:137117,Sean Goral,HumanObservation
+Minke Whale,Balaenoptera acutorostrata,urn:lsid:marinespecies.org:taxname:137087,Rae Fuhrman,HumanObservation
+Mola,Mola mola,urn:lsid:marinespecies.org:taxname:127405,Sean Goral,HumanObservation
+Northern Elephant Seal,Mirounga angustirostris,urn:lsid:marinespecies.org:taxname:255018,Rae Fuhrman,HumanObservation
+Northern Fur Seal,Callorhinus ursinus,urn:lsid:marinespecies.org:taxname:254997,Rae Fuhrman,HumanObservation
+Northern Right Whale Dolphin,Lissodelphis borealis,urn:lsid:marinespecies.org:taxname:254975,Rae Fuhrman,HumanObservation
+Orca,Orcinus orca,urn:lsid:marinespecies.org:taxname:137102,Sean Goral,HumanObservation
+Other,N/A,,Sean Goral,HumanObservation
+Other Species,N/A,,Sean Goral,HumanObservation
+Pacific White-Sided Dolphin,Lagenorhynchus obliquidens,urn:lsid:marinespecies.org:taxname:254981,Rae Fuhrman,HumanObservation
+Pacific White-sided Dolphin,Lagenorhynchus obliquidens,urn:lsid:marinespecies.org:taxname:254981,Sean Goral,HumanObservation
+Pygmy Sperm Whale,Kogia breviceps,urn:lsid:marinespecies.org:taxname:137113,Sean Goral,HumanObservation
+Right Whale,Eubalaena,urn:lsid:marinespecies.org:taxname:159022,Sean Goral,HumanObservation
+Risso's Dolphin,Grampus griseus,urn:lsid:marinespecies.org:taxname:137098,Rae Fuhrman,HumanObservation
+Risso‚Äôs Dolphin,Grampus griseus,urn:lsid:marinespecies.org:taxname:137098,Sean Goral,HumanObservation
+Sea Otter,Enhydra lutris,urn:lsid:marinespecies.org:taxname:242598,Rae Fuhrman,HumanObservation
+Sei Whale,Balaenoptera borealis,urn:lsid:marinespecies.org:taxname:137088,Sean Goral,HumanObservation
+Short Finned Pilot Whale,Globicephala macrorhynchus,urn:lsid:marinespecies.org:taxname:137096,Sean Goral,HumanObservation
+Sowerby's Beaked Whale,Mesoplodon bidens,urn:lsid:marinespecies.org:taxname:137121,Sean Goral,HumanObservation
+Sperm Whale,Physeter macrocephalus,urn:lsid:marinespecies.org:taxname:137119,Rae Fuhrman,HumanObservation
+Steller Sea Lion,Eumetopias jubatus,urn:lsid:marinespecies.org:taxname:254999,Sean Goral,HumanObservation
+Unidentified common dolphin,N/A,,Sean Goral,HumanObservation
+Unidentified Dolphin,N/A,,Rae Fuhrman,HumanObservation
+Unidentified Whale,N/A,,Rae Fuhrman,HumanObservation
+Unknown,N/A,,Sean Goral,HumanObservation
+Unspecified,N/A,,Sean Goral,HumanObservation
+Whale - Unidentified,N/A,,Sean Goral,HumanObservation
+White Shark,Carcharodon carcharias,urn:lsid:marinespecies.org:taxname:105838,Rae Fuhrman,HumanObservation
